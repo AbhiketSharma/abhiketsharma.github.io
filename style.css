@@ -1,0 +1,31 @@
+body {
+    font-family: Arial;
+    background: #0f172a;
+    color: white;
+    text-align: center;
+}
+
+header {
+    padding: 40px;
+}
+
+h1 {
+    color: #38bdf8;
+}
+
+.project {
+    background: #1e293b;
+    margin: 20px;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+.btn {
+    display: inline-block;
+    margin-top: 10px;
+    padding: 8px 12px;
+    background: #38bdf8;
+    color: black;
+    text-decoration: none;
+    border-radius: 5px;
+}
